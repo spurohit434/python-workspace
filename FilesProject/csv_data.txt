@@ -1,0 +1,4 @@
+name,age,department,university
+rolf,32,CSE,MIT
+sam,23,IT,SKIT
+jose,27,CSE-AI,MUJ
